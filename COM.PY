@@ -1,4 +1,3 @@
-X=input("what's X?")
-Y=input("What's Y")
-Z=int(X)+int(Y)
-print(Z)
+X=float(input("what's X?"))
+Y=float(input("What's Y"))
+print(X+Y)
